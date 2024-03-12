@@ -5,6 +5,7 @@ import React, { useEffect } from 'react'
 import { useForm } from 'react-hook-form'
 import { edadValidator } from './validators'
 
+
 function App() {
   const [empleadosList, setEmpleadosList] = useState([])
   const [editar, setEditar] = useState(false)
