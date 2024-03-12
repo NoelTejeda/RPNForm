@@ -1,8 +1,8 @@
 #!/bin/bash
-cd C:/Noel/CrudReactPostgresNode/server
+cd C:/proyectos/RPNForm/server
 npm start &
 echo 'server started'
 
-cd C:/Noel/CrudReactPostgresNode/client
+cd C:/proyectos/RPNForm/client
 npm start
 echo 'Despliegue terminado con éxito'
