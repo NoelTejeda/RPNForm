@@ -18,7 +18,7 @@ const db = new pg.Client({
   user: 'postgres',
   host: 'localhost',
   database: 'crudReactNode',
-  password: 'Movilnet2022',
+  password: 'postgres',
   port: 5432,
 });
 
