@@ -96,8 +96,8 @@ function App() {
        setValue('email', '')
        setValue('incluirTelefono', '')
        setValue('telefono', '')
-       setId('')
-       setEditar(false) */
+       setId('')*/
+    setEditar(false)
     reset()
   }
 
