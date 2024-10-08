@@ -83,7 +83,7 @@ function App() {
         console.log('error', error)
       })
   }
-
+  //NOTE:uso de validador React-Hook-Form y Reset()
 
   const limpiarCampos = () => {
     /*    setValue('nombre', '')
